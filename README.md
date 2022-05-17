@@ -1,2 +1,2 @@
 # Estoque
- Controle de estoque
+ Repositório criado para desenvolvimento de sistema de gerenciamento de estoque.
