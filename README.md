@@ -1,10 +1,10 @@
 # Estoque
-.Repositório criado para desenvolvimento de sistema de gerenciamento de estoque.
+.Repositório criado para desenvolvimento de sistema de gerenciamento de estoque.<br />
 
 # Como rodar o projeto?
 
-.Clone esse repositório.
-.Crie um virtualenv com Python 3
+.Clone esse repositório.<br />
+.Crie um virtualenv com Python 3<br />
 .Ative o virtualenv
 .Instale as dependências
 .Rode as migrações
